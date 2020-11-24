@@ -1,0 +1,5 @@
+include ':1to50d'
+include ':1to50d'
+include ':locationmap'
+include ':app'
+rootProject.name = "My Location"
